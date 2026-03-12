@@ -28,6 +28,7 @@ print("*" * 10 )
 
 
 def print_hi(name):
+    #TODO agregar definicion de funcion para hacerla mas entendible
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
